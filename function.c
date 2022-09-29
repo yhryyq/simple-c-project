@@ -11,5 +11,5 @@ int addOne(int a,int b)
 void useAPI(int x){
 	int y = 2*x;
 	y = y +1;
-	apifunc(y);
+	Py_ABS(y);
 }
