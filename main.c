@@ -10,6 +10,7 @@ void getAdd(int a)
 
 int main(){
 int numb = 1;
+numb = numb + 1;
 getAdd(numb);
 return 0;
 }
