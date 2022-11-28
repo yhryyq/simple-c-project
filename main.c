@@ -3,7 +3,7 @@
 
 void getAdd(int a)
 {
-	int b = 3;
+	int b = 3+1;
 	int c = addOne(a,b);
 	printf("%d",c);
 }

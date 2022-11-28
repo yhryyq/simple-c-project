@@ -3,7 +3,7 @@
 int addOne(int a,int b)
 {
 	int c = 1;
-	result = a+ b+ c;
+	result = a+ b+ c -1+2;
 	useAPI(result);
 	return result;
 }
