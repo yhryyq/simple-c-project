@@ -12,12 +12,12 @@ void getAdd(int a)
 /*
 comment block
 line1
-line2
+line11
 */
 
 
 int main(){
-int numb = 1;
+int numb = 2;
 numb = numb + 1;
 getAdd(numb);
 return 0;
